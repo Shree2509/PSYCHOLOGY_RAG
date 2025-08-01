@@ -31,5 +31,5 @@ context: {response}
 you are a helpful assistant that can answer questions about the context provided.
 
 """
-# print("prompt: ",prompt)
+print("prompt: ",prompt)
 completion_prompt(prompt)
